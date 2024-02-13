@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Guerrilla&display=swap');
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.c1 a{
+    text-decoration: none;
+    color: white;
+}
+.c2-1{
+    background-color: red;
+}
+.c3{
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -10px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -10px inset;
+}
+.c3-1{
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.c3-1 h3, .c2-1 p, .c2-2{
+    font-family: "Protest Guerrilla", sans-serif;
+}
+.c4{
+    text-align: justify;
+    padding: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
